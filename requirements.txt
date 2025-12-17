@@ -1,0 +1,5 @@
+agent-framework
+openai
+python-dotenv
+azure-identity
+requests
